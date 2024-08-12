@@ -18,7 +18,7 @@ The project has five folders:<br>
 
 **_Using Google Colab:_**
 
-🩻**Image Processing Part**🩻
+**⚙️Image Processing Part⚙️**
 
 Upload:<br>
  1- "Pre_processing.ipynb" code file.<br>
